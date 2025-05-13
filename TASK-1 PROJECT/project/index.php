@@ -1,0 +1,1 @@
+<?php echo 'WELCOME TO THE PROJECT!'; ?>
